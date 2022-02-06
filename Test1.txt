@@ -1,2 +1,6 @@
 1stline
+<<<<<<< HEAD
 2md line
+=======
+2ndline
+>>>>>>> test2_branch
